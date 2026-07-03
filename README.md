@@ -6,10 +6,10 @@ I build full-stack web applications and data pipelines, with hands-on work spann
 
 ### 🚀 About me
 
-* 🔭 Currently building **TutorSpace** — a tutoring platform with student, tutor, and admin roles
-* 🗄️ Working on data engineering at **Kara Solutions** — ELT pipelines, dbt, Dagster orchestration
-* 💡 Interested in product-focused engineering for African markets — beauty tech, ed-tech, e-commerce
-* 🤝 Comfortable working solo end-to-end or owning the backend in a small team
+* 🎓 Pursuing a Bachelor's degree in Computer Science at Hawassa University
+* 🌱 Actively building **TutorSpace** and deepening my skills in Next.js, Prisma, and PostgreSQL
+* 💡 Interested in full-stack architecture, data engineering, and scalable applications
+* 🤝 Enjoy collaborating, learning, and sharing knowledge with the community
 
 ### 🛠️ Tech Stack
 
