@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student @ Hawassa University ·
 
-I build full-stack web applications and data pipelines, with hands-on work spanning frontend frameworks, relational databases, and ELT systems. My focus lately has split between shipping product (a tutoring platform with role-based access) and structured data work (an ELT pipeline processing real-world Telegram data with dbt and computer vision enrichment).
+I am building full-stack web applications and data pipelines, with hands-on work spanning frontend frameworks, relational databases, and ELT systems. My focus lately has split between shipping product (a tutoring platform with role-based access) and structured data work (an ELT pipeline processing real-world Telegram data with dbt and computer vision enrichment).
 
 ### 🚀 About me
 
