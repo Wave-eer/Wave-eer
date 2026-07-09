@@ -25,9 +25,6 @@ I am building full-stack web applications and data pipelines, with hands-on work
 * **Dorm Allocation System** — Java Swing app automating dorm assignments for 100+ students
 * **Fraud Detection Model** — Python ensemble model on imbalanced fraud data (10 Academy Week 5-6)
 
-### 📜 Certifications
-
-freeCodeCamp · Udacity · SoloLearn · GeezX AI Boot Camp
 
 👉 email arsemanekre@gmail.com
 
