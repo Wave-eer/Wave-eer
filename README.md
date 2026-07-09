@@ -13,7 +13,7 @@ I am building full-stack web applications and data pipelines, with hands-on work
 
 ### 🛠️ Tech Stack
 
-**Languages:** JS · TS · Python · Java · C++ · SQL  
+**Languages:** JS · Python · Java · C++ · SQL  
 **Data & ML:** dbt · Dagster · FastAPI · YOLOv8 · pandas
 
 ### 🚀 Projects
