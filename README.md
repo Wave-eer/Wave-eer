@@ -21,9 +21,9 @@ I am building full-stack web applications and data pipelines, with hands-on work
 * **TutorSpace** *(in progress)* — Next.js, Prisma, PostgreSQL tutoring platform with student/tutor/admin roles
 * **Medical Telegram ELT Pipeline** — Dagster + dbt pipeline scraping and modeling Ethiopian medical Telegram data, enriched with YOLOv8 and served via FastAPI
 * **Sera Board** *(in progress)* — MERN job board with JWT auth and real-time application tracking
-* **AfroChick** — East African skin/hair-care analysis platform (PHP/MySQL), code-reviewed ~7.8/10
-* **Dorm Allocation System** — Java Swing app automating dorm assignments for 100+ students
-* **Fraud Detection Model** — Python ensemble model on imbalanced fraud data (10 Academy Week 5-6)
+* **AfroChick** — East African skin/hair-care analysis platform (PHP/MySQL), code-reviewed 
+* **Dorm Allocation System** — Java Swing app automating dorm assignments for students
+* **Fraud Detection Model** — Python ensemble model on imbalanced fraud data
 
 
 👉 email arsemanekre@gmail.com
