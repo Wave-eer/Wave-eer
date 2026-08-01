@@ -22,7 +22,6 @@ I am building full-stack web applications and data pipelines, with hands-on work
 * **Medical Telegram ELT Pipeline** — Dagster + dbt pipeline scraping and modeling Ethiopian medical Telegram data, enriched with YOLOv8 and served via FastAPI
 * **Sera Board** *(in progress)* — MERN job board with JWT auth and real-time application tracking
 * **AfroChick** — East African skin/hair-care analysis platform (PHP/MySQL), code-reviewed 
-* **Dorm Allocation System** — Java Swing app automating dorm assignments for students
 * **Fraud Detection Model** — Python ensemble model on imbalanced fraud data
 
 
